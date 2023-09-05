@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TheJitu_commerce_Coupons.props" />
+</Project>
