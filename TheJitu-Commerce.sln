@@ -11,11 +11,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{DF
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheJitu_Commerce_Auth", "TheJitu_Commerce_Auth\TheJitu_Commerce_Auth.csproj", "{19F436AE-63CF-458B-9314-ED869A254069}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheJitu_commerce_Coupons", "TheJitu_commerce_Coupons\TheJitu_commerce_Coupons.csproj", "{DA288A0D-3AEF-42D0-8DC5-10E4285042FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheJitu_Commerce_Coupons", "TheJitu_commerce_Coupons\TheJitu_Commerce_Coupons.csproj", "{DA288A0D-3AEF-42D0-8DC5-10E4285042FC}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheJitu_Commerce_Products", "TheJitu_Commerce_Products\TheJitu_Commerce_Products.csproj", "{D981BD7B-BDAB-46EF-9FA1-A2A7D6700A0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheJitu_Commerce_Carts", "TheJitu_Commerce_Carts\TheJitu_Commerce_Carts.csproj", "{68ACA50A-89BD-45FE-A40F-64730D90AE47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheJitu_Commerce_Cart", "TheJitu_Commerce_Carts\TheJitu_Commerce_Cart.csproj", "{68ACA50A-89BD-45FE-A40F-64730D90AE47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,13 +1,20 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
-namespace TheJitu_Commerce_Carts.Models
+namespace TheJitu_Commerce_Cart.Models
 {
     public class CartHeader
     {
-        public Guid CartHeaderId { get; set; } 
+        [Key]
+        public Guid CartHeaderId { get; set; }
+        [Required]
         public Guid UserId { get; set;}
-        [NotMapped]
+
+        public string? CouponCode { get; set; } = string.Empty; 
+        [NotMapped] //does not create a column for it
         public int Discount { get; set; }
+        [NotMapped]
+        public int CartTotal { get; set; }
 
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bRbPCEeclWNOg09hnWT8IVxWX0V2Xum9wMsQBQ2pji8HQO8jtlQeH9SLHKWrqcpprQdexo82X4XiNFsr8Jefog==",
+  "dgSpecHash": "hi0Fm+S+MtglEUd6ys9eJztGpJl6+gAxCQQl4ADn36nRLIe3pnl3xMxuyWnMsTB1scnTSNhSQcNy3sZFRNjqmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Documents\\JituTraining\\c# practice\\Microservices\\EcommerceService\\TheJitu_commerce_Coupons\\TheJitu_commerce_Coupons.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Documents\\JituTraining\\c# practice\\Microservices\\EcommerceService\\TheJitu_commerce_Coupons\\TheJitu_Commerce_Coupons.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Documents\\JituTraining\\c# practice\\Microservices\\EcommerceService\\TheJitu_commerce_Coupons\\TheJitu_commerce_Coupons.csproj": {}
+    "C:\\Users\\USER\\Documents\\JituTraining\\c# practice\\Microservices\\EcommerceService\\TheJitu_commerce_Coupons\\TheJitu_Commerce_Coupons.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Documents\\JituTraining\\c# practice\\Microservices\\EcommerceService\\TheJitu_commerce_Coupons\\TheJitu_commerce_Coupons.csproj": {
+    "C:\\Users\\USER\\Documents\\JituTraining\\c# practice\\Microservices\\EcommerceService\\TheJitu_commerce_Coupons\\TheJitu_Commerce_Coupons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\JituTraining\\c# practice\\Microservices\\EcommerceService\\TheJitu_commerce_Coupons\\TheJitu_commerce_Coupons.csproj",
-        "projectName": "TheJitu_commerce_Coupons",
-        "projectPath": "C:\\Users\\USER\\Documents\\JituTraining\\c# practice\\Microservices\\EcommerceService\\TheJitu_commerce_Coupons\\TheJitu_commerce_Coupons.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\JituTraining\\c# practice\\Microservices\\EcommerceService\\TheJitu_commerce_Coupons\\TheJitu_Commerce_Coupons.csproj",
+        "projectName": "TheJitu_Commerce_Coupons",
+        "projectPath": "C:\\Users\\USER\\Documents\\JituTraining\\c# practice\\Microservices\\EcommerceService\\TheJitu_commerce_Coupons\\TheJitu_Commerce_Coupons.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\USER\\Documents\\JituTraining\\c# practice\\Microservices\\EcommerceService\\TheJitu_commerce_Coupons\\obj\\",
         "projectStyle": "PackageReference",

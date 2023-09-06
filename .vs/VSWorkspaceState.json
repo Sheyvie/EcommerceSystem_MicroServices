@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TheJitu_Commerce_Auth",
+    "\\TheJitu_Commerce_Carts",
+    "\\TheJitu_Commerce_Carts\\Controllers",
+    "\\TheJitu_Commerce_Carts\\Services"
   ],
   "SelectedNode": "\\TheJitu-Commerce.sln",
   "PreviewInSolutionExplorer": false

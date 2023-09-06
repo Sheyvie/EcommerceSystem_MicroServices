@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zc7ziYY4CwZ1/PQktG/3UtgEGn8hSl52v8W2heZWsUvCrS4Q3/O6rZVnhWyBzy2kF1iKRd1gaEBbxLrCmf+87w==",
+  "dgSpecHash": "GrvOLrVD9w6M1cOxLY1NP3jqmlv30Ro47cWkdzUjxGhjN87ykq8gleWnu2QORRBoo8gl4WBuBPj6Xb7XDPzpww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Documents\\JituTraining\\c# practice\\Microservices\\EcommerceService\\TheJitu_Commerce_Carts\\TheJitu_Commerce_Carts.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Documents\\JituTraining\\c# practice\\Microservices\\EcommerceService\\TheJitu_Commerce_Carts\\TheJitu_Commerce_Cart.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -54,6 +54,7 @@
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
