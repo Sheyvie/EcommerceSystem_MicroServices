@@ -1,0 +1,9 @@
+﻿.header {
+    
+    color: white;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+
+}

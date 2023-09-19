@@ -1,0 +1,12 @@
+C:\Users\USER\Documents\JituTraining\c# practice\Microservices\EcommerceService\TheJituMessageApp\bin\Debug\net7.0\TheJituMessageApp.deps.json
+C:\Users\USER\Documents\JituTraining\c# practice\Microservices\EcommerceService\TheJituMessageApp\bin\Debug\net7.0\TheJituMessageApp.dll
+C:\Users\USER\Documents\JituTraining\c# practice\Microservices\EcommerceService\TheJituMessageApp\bin\Debug\net7.0\TheJituMessageApp.pdb
+C:\Users\USER\Documents\JituTraining\c# practice\Microservices\EcommerceService\TheJituMessageApp\obj\Debug\net7.0\TheJituMessageApp.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\JituTraining\c# practice\Microservices\EcommerceService\TheJituMessageApp\obj\Debug\net7.0\TheJituMessageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\JituTraining\c# practice\Microservices\EcommerceService\TheJituMessageApp\obj\Debug\net7.0\TheJituMessageApp.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\JituTraining\c# practice\Microservices\EcommerceService\TheJituMessageApp\obj\Debug\net7.0\TheJituMessageApp.AssemblyInfo.cs
+C:\Users\USER\Documents\JituTraining\c# practice\Microservices\EcommerceService\TheJituMessageApp\obj\Debug\net7.0\TheJituMessageApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\JituTraining\c# practice\Microservices\EcommerceService\TheJituMessageApp\obj\Debug\net7.0\TheJituMessageApp.dll
+C:\Users\USER\Documents\JituTraining\c# practice\Microservices\EcommerceService\TheJituMessageApp\obj\Debug\net7.0\refint\TheJituMessageApp.dll
+C:\Users\USER\Documents\JituTraining\c# practice\Microservices\EcommerceService\TheJituMessageApp\obj\Debug\net7.0\TheJituMessageApp.pdb
+C:\Users\USER\Documents\JituTraining\c# practice\Microservices\EcommerceService\TheJituMessageApp\obj\Debug\net7.0\ref\TheJituMessageApp.dll

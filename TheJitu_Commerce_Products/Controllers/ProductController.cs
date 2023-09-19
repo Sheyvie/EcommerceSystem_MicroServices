@@ -10,7 +10,7 @@ namespace TheJitu_Commerce_Products.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    
     public class ProductController : ControllerBase
     {
         private readonly IMapper _mapper;
@@ -59,7 +59,7 @@ namespace TheJitu_Commerce_Products.Controllers
             _responseDto.Result = response;
             return Ok(_responseDto);
         }
-        [HttpGet("GetByName{productName}")]
+        [HttpGet("GetByName/{productName}")]
         public async Task<ActionResult<ResponseDto>> GetProduct(string productName)
         {
             var product = await _productService.GetProductByNameAsync(productName);

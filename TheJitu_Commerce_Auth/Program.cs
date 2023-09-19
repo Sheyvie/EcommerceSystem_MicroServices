@@ -6,6 +6,7 @@ using TheJitu_Commerce_Auth.Model;
 using TheJitu_Commerce_Auth.Services;
 using TheJitu_Commerce_Auth.Services.IService;
 using TheJitu_Commerce_Auth.Utility;
+using TheJituMessageApp;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -29,9 +30,19 @@ builder.Services.AddIdentity<ApplicationUser,IdentityRole>().AddEntityFrameworkS
 //RegisterServices
 builder.Services.AddScoped<IUserInterface, UserService>();
 builder.Services.AddScoped<IJWtTokenGenerator, JwtService>();
+builder.Services.AddScoped<IMessageBus, MessageBus>();
 
 //Add AutoMapper
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+//Adding cors
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(builder =>
+   builder.WithOrigins("https://localhost:7263")
+        .WithHeaders().
+        AllowAnyMethod());
+
+});
 
 
 //configure JWtOptions 
@@ -46,6 +57,8 @@ if (app.Environment.IsDevelopment())
 }
 //Run an Pending Migrations
 app.UseMigration();
+
+app.UseCors();
 
 app.UseHttpsRedirection();
 

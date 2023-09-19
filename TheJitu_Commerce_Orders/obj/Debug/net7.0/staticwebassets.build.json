@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "mQ67/AmyLe44L2ET57XYEh5g5rMaxdZKV2rUTV8ybew=",
+  "Source": "TheJitu_Commerce_Orders",
+  "BasePath": "_content/TheJitu_Commerce_Orders",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\USER\\Documents\\JituTraining\\c# practice\\Microservices\\EcommerceService\\TheJitu_Commerce_Carts\\TheJitu_Commerce_Cart.csproj",
+      "Version": 2,
+      "Source": "TheJitu_Commerce_Cart",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

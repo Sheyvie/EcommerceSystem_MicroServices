@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\JituCommerceFE",
+    "\\JituCommerceFE\\Models",
+    "\\JituCommerceFE\\Services",
     "\\TheJitu_Commerce_Auth",
     "\\TheJitu_Commerce_Carts",
     "\\TheJitu_Commerce_Carts\\Controllers",

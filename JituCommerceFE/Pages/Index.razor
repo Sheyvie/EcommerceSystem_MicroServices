@@ -1,0 +1,51 @@
+﻿@page "/"
+
+@inject IProductInterface productInterface
+<PageTitle> Index</PageTitle>
+@if (IsLoading)
+{
+    <div class="spinner-border spinner-border-sm"></div>
+    <div class="spinner-grow spinner-grow-sm"></div>
+}
+else
+{
+    if (products.Count == 0)
+    {
+        <p>Sorry, Products not found</p>
+    }
+    else
+    {   
+        <div class="row">
+            @foreach (var product in products)
+            {
+                <div class="col-3 card shadow  m-2">
+                    <img src="@product.ImageUrl" class="card-img-top" alt="@product.Name">
+                    <div class="card-body">
+                        <h5 class="card-title">"@product.Name</h5>
+                        <h6 class="card-subtitle mb-3 text-muted">@product.Description</h6>
+                        <div>
+
+                            <span>@product.CategoryName </span>
+                            <span>@product.Price.ToString("c0") </span>
+                            <br />
+
+                        </div>
+
+                    </div>
+                </div>
+            }
+        </div>
+       
+    }
+}
+
+@code{
+    private List<ProductDto> products = new List<ProductDto>();
+    private bool IsLoading = true;
+
+    protected override async Task OnInitializedAsync()
+    {
+        products = await productInterface.GetProductsAsync();
+        IsLoading = false;
+    }
+}

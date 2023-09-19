@@ -170,3 +170,9 @@ C:\Users\USER\Documents\JituTraining\c# practice\Microservices\EcommerceService\
 C:\Users\USER\Documents\JituTraining\c# practice\Microservices\EcommerceService\TheJitu_Commerce_Auth\obj\Debug\net7.0\TheJitu_Commerce_Auth.pdb
 C:\Users\USER\Documents\JituTraining\c# practice\Microservices\EcommerceService\TheJitu_Commerce_Auth\obj\Debug\net7.0\TheJitu_Commerce_Auth.genruntimeconfig.cache
 C:\Users\USER\Documents\JituTraining\c# practice\Microservices\EcommerceService\TheJitu_Commerce_Auth\obj\Debug\net7.0\ref\TheJitu_Commerce_Auth.dll
+C:\Users\USER\Documents\JituTraining\c# practice\Microservices\EcommerceService\TheJitu_Commerce_Auth\bin\Debug\net7.0\Azure.Core.Amqp.dll
+C:\Users\USER\Documents\JituTraining\c# practice\Microservices\EcommerceService\TheJitu_Commerce_Auth\bin\Debug\net7.0\Azure.Messaging.ServiceBus.dll
+C:\Users\USER\Documents\JituTraining\c# practice\Microservices\EcommerceService\TheJitu_Commerce_Auth\bin\Debug\net7.0\Microsoft.Azure.Amqp.dll
+C:\Users\USER\Documents\JituTraining\c# practice\Microservices\EcommerceService\TheJitu_Commerce_Auth\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\USER\Documents\JituTraining\c# practice\Microservices\EcommerceService\TheJitu_Commerce_Auth\bin\Debug\net7.0\TheJituMessageApp.dll
+C:\Users\USER\Documents\JituTraining\c# practice\Microservices\EcommerceService\TheJitu_Commerce_Auth\bin\Debug\net7.0\TheJituMessageApp.pdb
